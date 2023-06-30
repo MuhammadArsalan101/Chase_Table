@@ -4,3 +4,6 @@ body{
 body{
     color: blue;
 }
+body{
+    color-interpolation-filters: auto;
+}
